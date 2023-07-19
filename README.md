@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A. Eren Sağanda</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Network Security Engineer & DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aesaganda&label=Profile%20views&color=0e75b6&style=flat" alt="aesaganda" /> </p>
 
